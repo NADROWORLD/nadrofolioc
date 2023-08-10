@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  .logo,#info {
+    font-family: Tears of joy;
+  }
+  #navbar {
+    font-family: Matter light;
+  }
+  #btn-nav, #info2{
+    font-family: Matter light;
+  }
+}
+html {
+  background-color: #FFFFFF;
+}
+
